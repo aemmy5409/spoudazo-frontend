@@ -60,15 +60,18 @@ A modern, dynamic, and responsive frontend application for **Spoudazo**, built w
 4. Open http://localhost:5173 to view the app in your browser.
 
 ## Project Structure
-src/
-├── api/              # API calls and services
-├── assets/           # Images, fonts, and other static assets
-├── components/       # Reusable UI components (buttons, cards, modals)
-├── pages/            # Page components (Home, Courses, AI Test, PDF Summarizer)
-├── state/            # State management (e.g., context, stores)
-├── App.jsx           # Main app component
-├── index.css         # Root style 
-├── main.jsx          # Entry point
+
+    ```plaintext
+    src/
+    ├── api/              # API calls and services
+    ├── assets/           # Images, fonts, and other static assets
+    ├── components/       # Reusable UI components (buttons, cards, modals)
+    ├── pages/            # Page components (Home, Courses, AI Test, PDF Summarizer)
+    ├── state/            # State management (e.g., context, stores)
+    ├── App.jsx           # Main app component
+    ├── index.css         # Root style 
+    ├── main.jsx          # Entry point
+    ```
 
 ## Available Scripts
 
